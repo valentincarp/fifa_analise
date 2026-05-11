@@ -1,7 +1,18 @@
 # FIFA Players Database
-
+Petite analyse de données
 Base de données relationnelle construite à partir d'un dataset 
 de 19 667 joueurs FIFA, entièrement en SQL avec SQLite.
+
+## Lancer le projet
+
+1. Télécharger le dataset FIFA sur Kaggle :
+   [https://www.kaggle.com/datasets/...](https://www.kaggle.com/datasets/zyadahmedmohamedl1l/fifa-football-players-stats-and-market-value)
+   et le renommer `Fifa.csv`
+2. Ouvrir DBeaver et créer une nouvelle base SQLite
+3. Importer `Fifa.csv` comme table via Import Data
+4. Exécuter `create_base.sql`
+5. Exécuter `requetes_fifa.sql` pour voir les analyses
+
 
 ## Structure
 
