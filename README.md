@@ -31,9 +31,16 @@ de 19 667 joueurs FIFA, entièrement en SQL avec SQLite.
 ## Analyses incluses
 
 - Top 10 joueurs par note globale
+  <img width="724" height="274" alt="Capture d’écran 2026-05-11 à 14 52 06" src="https://github.com/user-attachments/assets/abc5ca3c-f852-4e84-9e58-da74cb4640a4" />
+
 - Pays avec le plus de joueurs
+  <img width="724" height="274" alt="Capture d’écran 2026-05-11 à 14 52 41" src="https://github.com/user-attachments/assets/427ba2a4-51cf-4907-beca-e821e138a0db" />
+
 - Note moyenne par position
+  <img width="724" height="274" alt="Capture d’écran 2026-05-11 à 14 52 56" src="https://github.com/user-attachments/assets/06b3f0c8-17f8-4216-b49a-223b4bbeb90a" />
+
 - Jeunes talents U21 avec le plus grand potentiel d'évolution
+<img width="880" height="274" alt="Capture d’écran 2026-05-11 à 14 53 05" src="https://github.com/user-attachments/assets/50d3a7b3-d5b9-4f5c-a37e-e686b82435f6" />
 
 ## Technologies
 
