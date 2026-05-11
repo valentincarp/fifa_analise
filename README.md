@@ -1,6 +1,6 @@
 # FIFA Players Database
-Petite analyse de données
-Base de données relationnelle construite à partir d'un dataset 
+- Petite analyse de données
+- Base de données relationnelle construite à partir d'un dataset 
 de 19 667 joueurs FIFA, entièrement en SQL avec SQLite.
 
 ## Lancer le projet
